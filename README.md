@@ -23,7 +23,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/Adity-aprasad/ImagechangerWithHaptic_feedback.git
+git clone https://github.com/YADAVLUV/-ImagechangerWithHaptic_feedback
 
 # Navigate into the project directory
 cd ImagechangerWithHaptic_feedback
